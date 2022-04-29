@@ -6,5 +6,5 @@
 ## 割り振ってみる
 <img src="https://github.com/aq35/study_scss_just_kidding/blob/main/01_table/02.png" width="828"/>
 
-## 他コンポーネントで使い回しができるか。複雑なのは関数化できるか。
+## 他コンポーネントで使い回し
 <img src="https://github.com/aq35/study_scss_just_kidding/blob/main/01_table/03.png" width="828"/>
