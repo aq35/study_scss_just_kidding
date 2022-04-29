@@ -1,2 +1,2 @@
-# -SCSS
-SCSSを秒で活用を目論みる、しょうもないプロジェクトです。
+# study_scss_just_kidding
+SCSSの活用方法を考えてみるなんちゃって記事です。
